@@ -90,5 +90,17 @@ The YOLOv3 model dynamically identifies and highlights license plates in the vid
 https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/e4177189-e3c6-4ab4-a26a-661183b520b9
 
 
-## Web Interface using Flask
+## Web Interface Using Flask
+
+I have crafted the interface using Python, HTML, CSS, and Flask, with a primary focus on achieving a clean, simple, and user-friendly design. The homepage interface starts with a brief project introduction, as illustrated in Figure 15 and Figure 16.
+
+Users can upload an image, and YOLOv3, based on the uploaded image, performs license plate detection and subsequently crops the license plate from the image. We utilize OpenCV to execute various post-processing steps aimed at enhancing the visibility and accuracy of the detected license plate.
+
+The figure below show the web interface:
+
+<img width="353" alt="image" src="https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/7472bbf6-5e28-4640-88e4-bcdec35fe123">
+
+<img width="320" alt="image" src="https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/421ddea9-1438-4b66-b1d2-49b14fff8c50">
+
+
 
