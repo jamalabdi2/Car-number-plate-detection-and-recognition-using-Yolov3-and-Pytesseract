@@ -89,6 +89,14 @@ The YOLOv3 model dynamically identifies and highlights license plates in the vid
 
 https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/e4177189-e3c6-4ab4-a26a-661183b520b9
 
+## Real-time Licence Plate Detection From Webcam
+
+I've implemented a live license plate detection system using a webcam, and the real-time feed is streamed to a browser using Flask. During testing, I used car pictures on my phone, bringing the phone in front of the webcam, and the system successfully detected license plates. Below are the results of the detection from the webcam:
+
+<img width="798" alt="Screenshot 2023-12-23 at 7 03 12 PM" src="https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/f5c08982-edac-4b99-b8dc-25c9013100c7">
+<img width="698" alt="Screenshot 2023-12-23 at 7 05 39 PM" src="https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/81869ba0-3da7-408d-85ce-62fcdeb5e297">
+
+
 
 ## Web Interface Using Flask
 
@@ -96,11 +104,11 @@ I have crafted the interface using Python, HTML, CSS, and Flask, with a primary 
 
 Users can upload an image, and YOLOv3, based on the uploaded image, performs license plate detection and subsequently crops the license plate from the image. We utilize OpenCV to execute various post-processing steps aimed at enhancing the visibility and accuracy of the detected license plate.
 
-The figure below show the web interface:
+The figure below shows the web interface:
 
 <img width="353" alt="image" src="https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/7472bbf6-5e28-4640-88e4-bcdec35fe123">
 
 <img width="320" alt="image" src="https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/421ddea9-1438-4b66-b1d2-49b14fff8c50">
 
 
-
+This project is designed primarily for Korean car number plates, but its robust design allows it to effectively work with number plates from various regions and countries.
