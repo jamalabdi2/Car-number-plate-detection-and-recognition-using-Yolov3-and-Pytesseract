@@ -13,3 +13,15 @@ The processed image is then passed through Pytesseract OCR to extract the text f
 #![whole_project_overview_](https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/6cf97cc1-efce-4a0e-9bf7-79c424b6b495)
 
 
+## Technology used
+
+| Development Tools  | Description                                               |
+|---------------------|-----------------------------------------------------------|
+| Yolov3              | Deep learning algorithm for real-time object detection.   |
+| OpenCV              | Computer vision library for image and video processing.   |
+| Python              | Programming language used for the development of algorithms. |
+| Flask               | Web framework for creating web applications with Python.  |
+| Pytesseract OCR    | Optical Character Recognition (OCR) tool for text.         |
+| Visual Studio Code | An IDE for coding.                                         |
+| Google Colab        | Cloud-based platform for collaborative coding in Python.  |
+
