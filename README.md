@@ -82,8 +82,13 @@ Figure: Text extraction using OCR
 <img width="378" alt="image" src="https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/5277c253-096f-44cc-a946-4b3847841ffd">
 
 
+## Real-time Licence Plate Detection From Video 
+
+In this section, witness real-time license plate detection in action through the provided video demonstration. 
+The YOLOv3 model dynamically identifies and highlights license plates in the video stream. 
+
 https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/e4177189-e3c6-4ab4-a26a-661183b520b9
 
 
-## Real-time Licence Plate Detection From Video 
+## Web Interface using Flask
 
