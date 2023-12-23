@@ -77,8 +77,13 @@ For Korean characters, the language parameter is set to ‘Hangul’ .
 Post-OCR, the text undergoes post-processing to correct any mistakes, which includes spellchecking and validation against known license plate formats, as well as handling unique characters or symbols found in Korean plates. The final step is to output the recognized text for further use or storage. 
 The effectiveness of Pytesseract in recognizing Korean license plates can be significantly influenced by the image's quality, the preprocessing methods, and the OCR engine's training. 
 
-Figure 9 Text extraction using OCR
+Figure: Text extraction using OCR
 
 <img width="378" alt="image" src="https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/5277c253-096f-44cc-a946-4b3847841ffd">
 
+
+https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/e4177189-e3c6-4ab4-a26a-661183b520b9
+
+
+## Real-time Licence Plate Detection From Video 
 
