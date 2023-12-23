@@ -110,5 +110,23 @@ The figure below shows the web interface:
 
 <img width="320" alt="image" src="https://github.com/jamalabdi2/Car-number-plate-detection-and-recognition-using-Yolov3-and-Pytesseract/assets/113813239/421ddea9-1438-4b66-b1d2-49b14fff8c50">
 
+## Future Work
 
-This project is designed primarily for Korean car number plates, but its robust design allows it to effectively work with number plates from various regions and countries.
+To enhance the system, future efforts will concentrate on:
+
+1. Improving character recognition through the implementation of single-character detection using deep learning.
+2. Employing advanced techniques like CRNN and LSTM to bolster the system's robustness and achieve more accurate character recognition.
+3. Exploring the integration of the system into mobile devices such as smartphones and tablets to leverage mobile environments.
+
+
+While initially designed for Korean car number plates, the project's robust architecture enables effective functionality with number plates from diverse regions and countries.
+
+
+
+
+
+
+
+
+
+
