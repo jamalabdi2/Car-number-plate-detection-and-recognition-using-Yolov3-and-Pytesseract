@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 def yolo_detection_img(frame):
     # Load YOLO model
-    net = cv2.dnn.readNet("/Users/jamal/Documents/custom_yolov3/yolov3_training_last.weights", "yolov3_training.cfg")
+    net = cv2.dnn.readNet("yolov3_training_last.weights", "yolov3_training.cfg")
 
     # Name custom object
     classes = ["number_plate"]
