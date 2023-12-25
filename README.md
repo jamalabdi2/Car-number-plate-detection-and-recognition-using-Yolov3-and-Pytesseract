@@ -122,9 +122,11 @@ To enhance the system, future efforts will concentrate on:
 While initially designed for Korean car number plates, the project's robust architecture enables effective functionality with number plates from diverse regions and countries.
 
 
+Feel free to reach out to me via email if you have any inquiries about this project or if you're interested in collaborating:
 
+Email: abdijumale2@gmail.com
 
-
+Looking forward to hearing from you!
 
 
 
